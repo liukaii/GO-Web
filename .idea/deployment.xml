@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="GO-Web">
+    <serverData>
+      <paths name="GO-Web">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/lk/GO/src/GO-Web" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
